@@ -117,42 +117,71 @@ ii) Human Face Image Dataset- It contains 13233 total human face images.
 
 
 ###### haarcascades
+
 | - haarcascade_frontalface_alt.xml
 
 ###### images
+
 | - American_water_spaniel_00648.jpg
+
 | - Brittany_02625.jpg
+
 | - Curly-coated_retriever_03896.jpg
+
 | - Labrador_retriever_06449.jpg
+
 | - Labrador_retriever_06455.jpg
+
 | - Labrador_retriever_06457.jpg
+
 | - Welsh_springer_spaniel_08203.jpg
+
 | - sample_cnn.png
+
 | - sample_dog_output.png
+
 | - sample_human_2.png
+
 | - sample_human_output.png
 
 ###### requirements
+
 |- dog-linux-gpu.yml
+
 |- dog-linux.yml
+
 |- dog-mac-gpu.yml
+
 |- dog-mac.yml
+
 |- dog-windows-gpu.yml
+
 |- dog-windows.yml
+
 |- requirements-gpu.txt
+
 |- requirements.txt
 
 ###### saved_models
+
 |- weights.best.Inception.hdf5
+
 |- weights.best.InceptionV3.hdf5
+
 |- weights.best.VGG16.hdf5
+
 |- weights.best.from_scratch.hdf5
 
 ###### .DS_Store
+
 ###### CODEOWNERS
+
 ###### LICENSE.txt
+
 ###### README.md
+
 ###### dog_app (1).ipynb
+
 ###### extract_bottleneck_features.py
 
 ## Results<a name="results"></a>
